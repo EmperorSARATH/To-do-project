@@ -1,0 +1,18 @@
+.label{
+    margin-right: 20px;
+}
+
+.btn-login{
+    margin-top: 20px;
+    width: min-content;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+.auth{
+    display: flex;
+}
+
+.form-main{
+    display: flex;
+}

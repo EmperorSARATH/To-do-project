@@ -1,0 +1,23 @@
+.label{
+ 
+}
+.btn-register{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    align-self: center;
+}
+
+
+.auth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-main{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+}
